@@ -30,7 +30,8 @@ url: "https://blog.geekmachine.info" # the base hostname & protocol for your sit
 github_username:  vintz
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: thiagorossener/jekflix-template
 plugins:
   - jekyll-feed
 
