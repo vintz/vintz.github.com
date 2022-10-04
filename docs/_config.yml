@@ -54,3 +54,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# ###### THEME CONFIG ###### 
+
+tags:
+  - blog
+  - jdr
+  - code
+  - dev
+show_hero: true
+paginate: 12
+
+show_time_bar: true
+show_modal_on_finish_post: false
