@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+name: The Geek machine
 title: The geek machine
 email: vintz@geekmachine.info
 description: >- # this means to ignore newlines until "baseurl:"
@@ -64,7 +64,6 @@ tags:
   - code
   - dev
 show_hero: true
-paginate: 12
 
 show_time_bar: true
 show_modal_on_finish_post: false
