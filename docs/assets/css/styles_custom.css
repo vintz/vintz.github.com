@@ -43,3 +43,11 @@
     right: 0;
 }
 
+.category_title
+{
+    display: table-cell;
+    font-size: 1.4vw;
+    line-height: 1.25vw;
+    vertical-align: bottom;
+}
+

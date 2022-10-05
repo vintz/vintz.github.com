@@ -70,7 +70,7 @@ show_modal_on_finish_post: false
 
 
 menu:
-  - title: Home
+  - title: Accueil
     url: /
   - title: A propos
     url: /about
