@@ -1,0 +1,45 @@
+.home_read_now {
+    background-color: white !important;
+    color: black !important;
+}
+
+.home_read_now svg {
+    color: black !important;
+}
+
+.home_read_now:hover {
+    background-color: rgba(210, 210, 210, 1) !important;
+    color: black !important;
+}
+
+.bar-header{
+    display: flex;
+}
+
+.bar-moved{
+    background-color:rgba(210, 210, 210, 0) !important;
+}
+
+.bar-header .menu {
+    line-height: 2rem;
+    margin-left: 2rem;
+}
+
+.bar-header .menu a{
+    color: white;
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+.bar-header .menu a:hover{
+    color: rgb(210,210,210);
+}
+
+.bar-header .menu a:first-child{
+    font-weight: bolder;
+}
+.bar-header .dosearch {
+    position: absolute;
+    right: 0;
+}
+

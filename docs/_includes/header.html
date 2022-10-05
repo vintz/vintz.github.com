@@ -1,0 +1,23 @@
+<header class="bar-header bar-moved">
+    
+    <h1 class="logo">
+        <a href="{{ site.baseurl }}/" style="margin-left: 2em">
+            {% if site.use_logo %}
+                {% include logo.html %}
+            {% else %}
+                {{ site.name }} <span class="version">{{ site.version }}</span>
+            {% endif %}
+        </a>
+    </h1>
+    {% include links.html %}
+    <a id="search" class="dosearch" role="button">
+        <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
+    </a>
+</header>
+
+<div id="mask" class="overlay"></div>
+
+{% include menu.html %}
+{% include search.html %}
+
+<script >init_scroll()</script>
