@@ -66,8 +66,7 @@ tags:
 show_hero: true
 
 show_time_bar: true
-show_modal_on_finish_post: false
-
+show_modal_on_finish_post: true
 
 menu:
   - title: Accueil
@@ -83,21 +82,21 @@ translations:
     new_post: "Nouveau post"
     see_also: "See also"
     search: "Recherche"
-    author: "Author"
+    author: "Auteur"
     share: "Partager"
-    comments: "Comments"
+    comments: "Commentaires"
   button:
     read_now: "Lecture"
     share_on_twitter: "Partager sur twitter"
-    share_on_facebook: "Share on Facebook"
+    share_on_facebook: "Partager sur Facebook"
   pagination:
     page: "Page"
     of: "of"
     next_page: "Suivant"
     next_post: "Précedent"
   recommendation:
-    text: "Why don't you read something next?"
-    back_btn: "Go back to top"
+    text: "Voulez-vous lire un autre article?"
+    back_btn: "Retour en haut de page"
   error_404:
     title: "Il n'y a rien à cet endroit. Essaie encore... ;-)"
     message: "I'm sorry. We couldn't find the page you are looking for."
@@ -119,3 +118,7 @@ translations:
     after_send:
       title: "Message sent!"
       message: "Thank you for sending me a message. I'm going to answer ASAP."
+
+collections:
+  authors:
+  

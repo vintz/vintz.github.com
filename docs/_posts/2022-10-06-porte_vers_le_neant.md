@@ -2,7 +2,7 @@
 layout: post
 title: Une porte sur le vide
 date: 2022-10-06 00:00 +0200
-categories: ecriture
+category: ecriture
 tags: [nouvelle, horreur]
 summary: Une petite nouvelle 
 image: /assets/images/door_to_nothingness.png

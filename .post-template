@@ -2,9 +2,11 @@
 layout: post
 title:  Le premier
 subtitle: Un premier post pour les rédiger tous
-date: 2022-10-04 14:03:57 +0200
+date: YYYY-MM-DD HH:MM
 categories: blog
 image: /assets/images/first_post.png
 tags: [blog, test]
+published: false
 soundscape: 
+author: vintz
 ---
