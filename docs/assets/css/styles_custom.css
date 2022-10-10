@@ -51,13 +51,15 @@
     vertical-align: bottom;
 }
 
-.post-header 
+.post-header,
+.tags-header
 {
     background-color: black !important;
     
 }
 
-.post-header .logo a 
+.post-header .logo a, 
+.tags-header .logo a
 {
     color: white !important;
 }
