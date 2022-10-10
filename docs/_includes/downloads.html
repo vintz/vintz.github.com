@@ -1,0 +1,15 @@
+{% if page.downloads %}
+<section class="downloads">
+    <h3> Téléchargements </h3>
+    <div class="download-files">
+        {% for item in page.downloads %}
+        {% if item.data.title and item.data.url %}
+            <a href="{{ site.url }}{{ site.baseurl }}{{ item.data.url }}" target="_blank">
+                <img src="/assets/images/icon-{{item.data.type}}.png" width="100"/>
+                <p>{{ item.data.title }}</p>
+            </a>
+        {% endif %}
+        {% endfor %}
+    </div>
+</section>
+{% endif %}

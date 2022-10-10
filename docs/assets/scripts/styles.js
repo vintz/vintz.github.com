@@ -13,13 +13,10 @@ const init_scroll = () =>
         {
             if (window.scrollY < 80)
             {
-                console.log('OVER')
                 header.classList.add('bar-moved')
             }
             else 
             {
-                console.log('UNDER')
-
                 header.classList.remove('bar-moved')
             }
         }
