@@ -52,14 +52,16 @@
 }
 
 .post-header,
-.tags-header
+.tags-header,
+.page-header
 {
     background-color: black !important;
     
 }
 
 .post-header .logo a, 
-.tags-header .logo a
+.tags-header .logo a,
+.page-header .logo a
 {
     color: white !important;
 }
