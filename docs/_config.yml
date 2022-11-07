@@ -115,6 +115,9 @@ translations:
       title: "Message sent!"
       message: "Thank you for sending me a message. I'm going to answer ASAP."
 
+analyitcsUrl: "http://stats.geekmachine.info/analytics"
+
+
 collections:
   authors:
   
