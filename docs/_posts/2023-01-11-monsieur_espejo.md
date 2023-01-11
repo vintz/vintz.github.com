@@ -6,7 +6,7 @@ date: 2023-01-11 19:38
 image: /assets/images/espejo.png
 category: ecriture
 tags: [nouvelle, horreur]
-published: false
+published: true
 soundscape: 
 author: vintz
 download: 
