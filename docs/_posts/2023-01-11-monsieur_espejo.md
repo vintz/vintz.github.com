@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Monsieur Esperjo
-subtitle: Un premier post pour les rédiger tous
 date: 2023-01-11 19:38
 image: /assets/images/espejo.png
 category: ecriture
