@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Dans un supermarché
-subtitle: Un premier post pour les rédiger tous
 date: 2023-02-06 10:00
 category: ecriture
 image: /assets/images/supermarket.png
