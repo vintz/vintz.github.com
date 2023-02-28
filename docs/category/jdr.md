@@ -2,5 +2,5 @@
 layout: category
 title: Jeu de rôle
 slug: jdr
-description: A category for  jdr posts.
+description: Une catégorie pour les posts sur le jeu de rôle
 ---
