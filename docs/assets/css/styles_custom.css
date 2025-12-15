@@ -82,3 +82,7 @@
 {
     min-width: 120px;
 }
+
+.post-cover {
+    max-height: 500px;
+}
